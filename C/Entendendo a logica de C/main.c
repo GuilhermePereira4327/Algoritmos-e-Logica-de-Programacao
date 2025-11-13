@@ -1,28 +1,40 @@
 #include <stdio.h>
 #include <string.h>
-
-int main(){
-
+void limpar_entrada()
+{
+    char c;
+    while ((c = getchar()) != '\n' && c != EOF) {}
+}
+void ler_texto(char *buffer, int length)
+{
+    fgets(buffer, length, stdin);
+    strtok(buffer, "\n");
+}
+int main()
+{
+    double salario1, salario2;
+    char nome1[50], nome2[50];
     int idade;
-    double salario, altura;
-    char genero;
-    char nome[50];
-
-    printf("Digite o valor da idade: ");
+    char sexo;
+    printf("Nome da primeira pessoa: ");
+    ler_texto(nome1, 50);
+    printf("Salario da primeira pessoa: ");
+    scanf("%lf", &salario1);
+    printf("Nome da segunda pessoa: ");
+    limpar_entrada();
+    ler_texto(nome2, 50);
+    printf("Salario da segunda pessoa: ");
+    scanf("%lf", &salario2);
+    printf("Digite uma idade: ");
     scanf("%d", &idade);
-    printf("Digite o valor do salario: ");
-    scanf("%lf", &salario);
-    printf("Digite o valor da altura: ");
-    scanf("%lf", &altura);
-    printf("Digite o nome da pessoa: ");
-    scanf("%s", nome);
-
-    printf("\n\n");
-    printf("IDADE = %d\n", idade);
-    printf("SALARIO = %.2lf\n", salario);
-    printf("ALTURA = %.2lf\n", altura);
-    printf("NOME = %s\n", nome);
-    //printf("GENERO = %c\n", genero);
-
+    printf("Digite um sexo (F/M): ");
+    limpar_entrada();
+    scanf("%c", &sexo);
+    printf("Nome 1: %s\n", nome1);
+    printf("Salario 1: %.2lf\n", salario1);
+    printf("Nome 2: %s\n", nome2);
+    printf("Salario 2: %.2lf\n", salario2);
+    printf("Idade: %d\n", idade);
+    printf("Sexo: %c\n", sexo);
     return 0;
 }
