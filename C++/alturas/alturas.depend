@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763404370 source:c:\users\raiar\desktop\cursos udemy\algoritmos e lógica de programação\c++\alturas\main.cpp
+	<iostream>
+	<climits>
+	<iomanip>
+
