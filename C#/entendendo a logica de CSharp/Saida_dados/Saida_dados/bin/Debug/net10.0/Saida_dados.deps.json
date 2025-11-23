@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Saida_dados/1.0.0": {
+        "runtime": {
+          "Saida_dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saida_dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\primeiro\primeiro\bin\Debug\net10.0\primeiro.exe
+C:\Temp\WS-Visual Studio\primeiro\primeiro\bin\Debug\net10.0\primeiro.deps.json
+C:\Temp\WS-Visual Studio\primeiro\primeiro\bin\Debug\net10.0\primeiro.runtimeconfig.json
+C:\Temp\WS-Visual Studio\primeiro\primeiro\bin\Debug\net10.0\primeiro.dll
+C:\Temp\WS-Visual Studio\primeiro\primeiro\bin\Debug\net10.0\primeiro.pdb
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.dll
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\refint\primeiro.dll
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.pdb
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\primeiro.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\primeiro\primeiro\obj\Debug\net10.0\ref\primeiro.dll

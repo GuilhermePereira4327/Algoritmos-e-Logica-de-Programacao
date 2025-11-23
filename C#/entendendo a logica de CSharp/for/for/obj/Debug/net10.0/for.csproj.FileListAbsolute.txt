@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\for\for\bin\Debug\net10.0\for.exe
+C:\Temp\WS-Visual Studio\for\for\bin\Debug\net10.0\for.deps.json
+C:\Temp\WS-Visual Studio\for\for\bin\Debug\net10.0\for.runtimeconfig.json
+C:\Temp\WS-Visual Studio\for\for\bin\Debug\net10.0\for.dll
+C:\Temp\WS-Visual Studio\for\for\bin\Debug\net10.0\for.pdb
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.dll
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\refint\for.dll
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.pdb
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\for.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\for\for\obj\Debug\net10.0\ref\for.dll

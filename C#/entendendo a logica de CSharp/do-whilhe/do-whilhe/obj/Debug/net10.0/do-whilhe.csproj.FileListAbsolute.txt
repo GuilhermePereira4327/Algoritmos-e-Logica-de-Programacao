@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\bin\Debug\net10.0\do-whilhe.exe
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\bin\Debug\net10.0\do-whilhe.deps.json
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\bin\Debug\net10.0\do-whilhe.runtimeconfig.json
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\bin\Debug\net10.0\do-whilhe.dll
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\bin\Debug\net10.0\do-whilhe.pdb
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.dll
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\refint\do-whilhe.dll
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.pdb
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\do-whilhe.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\do-whilhe\do-whilhe\obj\Debug\net10.0\ref\do-whilhe.dll

@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\bin\Debug\net10.0\processamento-e-casting.exe
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\bin\Debug\net10.0\processamento-e-casting.deps.json
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\bin\Debug\net10.0\processamento-e-casting.runtimeconfig.json
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\bin\Debug\net10.0\processamento-e-casting.dll
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\bin\Debug\net10.0\processamento-e-casting.pdb
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.dll
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\refint\processamento-e-casting.dll
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.pdb
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\processamento-e-casting.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\processamento-e-casting\processamento-e-casting\obj\Debug\net10.0\ref\processamento-e-casting.dll

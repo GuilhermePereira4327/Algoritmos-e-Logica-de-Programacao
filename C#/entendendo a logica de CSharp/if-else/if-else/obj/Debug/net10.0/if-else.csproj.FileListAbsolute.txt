@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\if-else\if-else\bin\Debug\net10.0\if-else.exe
+C:\Temp\WS-Visual Studio\if-else\if-else\bin\Debug\net10.0\if-else.deps.json
+C:\Temp\WS-Visual Studio\if-else\if-else\bin\Debug\net10.0\if-else.runtimeconfig.json
+C:\Temp\WS-Visual Studio\if-else\if-else\bin\Debug\net10.0\if-else.dll
+C:\Temp\WS-Visual Studio\if-else\if-else\bin\Debug\net10.0\if-else.pdb
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.dll
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\refint\if-else.dll
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.pdb
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\if-else.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\if-else\if-else\obj\Debug\net10.0\ref\if-else.dll

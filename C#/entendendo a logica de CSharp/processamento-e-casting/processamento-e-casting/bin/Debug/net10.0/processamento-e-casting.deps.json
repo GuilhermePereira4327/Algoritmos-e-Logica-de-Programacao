@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "processamento-e-casting/1.0.0": {
+        "runtime": {
+          "processamento-e-casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "processamento-e-casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

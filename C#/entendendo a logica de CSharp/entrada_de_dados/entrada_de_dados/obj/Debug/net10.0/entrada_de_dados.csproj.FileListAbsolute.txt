@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\bin\Debug\net10.0\entrada_de_dados.exe
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\bin\Debug\net10.0\entrada_de_dados.deps.json
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\bin\Debug\net10.0\entrada_de_dados.runtimeconfig.json
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\bin\Debug\net10.0\entrada_de_dados.dll
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\bin\Debug\net10.0\entrada_de_dados.pdb
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.dll
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\refint\entrada_de_dados.dll
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.pdb
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\entrada_de_dados.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\entrada_de_dados\entrada_de_dados\obj\Debug\net10.0\ref\entrada_de_dados.dll

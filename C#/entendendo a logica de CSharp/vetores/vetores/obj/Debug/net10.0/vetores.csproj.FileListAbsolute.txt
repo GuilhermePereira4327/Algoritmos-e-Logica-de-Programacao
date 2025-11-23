@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\vetores\vetores\bin\Debug\net10.0\vetores.exe
+C:\Temp\WS-Visual Studio\vetores\vetores\bin\Debug\net10.0\vetores.deps.json
+C:\Temp\WS-Visual Studio\vetores\vetores\bin\Debug\net10.0\vetores.runtimeconfig.json
+C:\Temp\WS-Visual Studio\vetores\vetores\bin\Debug\net10.0\vetores.dll
+C:\Temp\WS-Visual Studio\vetores\vetores\bin\Debug\net10.0\vetores.pdb
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.dll
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\refint\vetores.dll
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.pdb
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\vetores.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\vetores\vetores\obj\Debug\net10.0\ref\vetores.dll
