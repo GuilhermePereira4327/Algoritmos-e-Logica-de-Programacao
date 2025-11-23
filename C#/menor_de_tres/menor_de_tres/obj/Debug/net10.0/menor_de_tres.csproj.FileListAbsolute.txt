@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\bin\Debug\net10.0\menor_de_tres.exe
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\bin\Debug\net10.0\menor_de_tres.deps.json
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\bin\Debug\net10.0\menor_de_tres.runtimeconfig.json
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\bin\Debug\net10.0\menor_de_tres.dll
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\bin\Debug\net10.0\menor_de_tres.pdb
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.dll
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\refint\menor_de_tres.dll
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.pdb
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\menor_de_tres.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\menor_de_tres\menor_de_tres\obj\Debug\net10.0\ref\menor_de_tres.dll

@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\bin\Debug\net10.0\diagonal_negativos.exe
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\bin\Debug\net10.0\diagonal_negativos.deps.json
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\bin\Debug\net10.0\diagonal_negativos.runtimeconfig.json
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\bin\Debug\net10.0\diagonal_negativos.dll
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\bin\Debug\net10.0\diagonal_negativos.pdb
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.dll
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\refint\diagonal_negativos.dll
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.pdb
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\diagonal_negativos.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\diagonal_negativos\diagonal_negativos\obj\Debug\net10.0\ref\diagonal_negativos.dll

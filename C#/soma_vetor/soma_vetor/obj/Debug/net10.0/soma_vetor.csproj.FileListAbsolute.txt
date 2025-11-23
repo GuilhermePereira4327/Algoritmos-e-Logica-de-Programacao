@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\bin\Debug\net10.0\soma_vetor.exe
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\bin\Debug\net10.0\soma_vetor.deps.json
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\bin\Debug\net10.0\soma_vetor.runtimeconfig.json
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\bin\Debug\net10.0\soma_vetor.dll
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\bin\Debug\net10.0\soma_vetor.pdb
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.dll
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\refint\soma_vetor.dll
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.pdb
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\soma_vetor.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\soma_vetor\soma_vetor\obj\Debug\net10.0\ref\soma_vetor.dll

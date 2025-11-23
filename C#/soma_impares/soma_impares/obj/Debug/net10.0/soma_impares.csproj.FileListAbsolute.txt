@@ -1,0 +1,14 @@
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\bin\Debug\net10.0\soma_impares.exe
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\bin\Debug\net10.0\soma_impares.deps.json
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\bin\Debug\net10.0\soma_impares.runtimeconfig.json
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\bin\Debug\net10.0\soma_impares.dll
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\bin\Debug\net10.0\soma_impares.pdb
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.AssemblyInfoInputs.cache
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.AssemblyInfo.cs
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.dll
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\refint\soma_impares.dll
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.pdb
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\soma_impares.genruntimeconfig.cache
+C:\Temp\WS-Visual Studio\soma_impares\soma_impares\obj\Debug\net10.0\ref\soma_impares.dll
